@@ -13,12 +13,14 @@
         android:id="@+id/username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="djzhao"
         android:autofillHints="用户名" />
 
     <EditText
         android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="123456"
         android:autofillHints="密码" />
 
     <Button
